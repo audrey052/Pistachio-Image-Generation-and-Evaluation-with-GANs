@@ -13,9 +13,9 @@ Methodology
    - Modified GAN: Adjusted architecture and hyperparameters for better stability and image quality.
    - Fine-tuning was performed on the modified GAN, though results showed the original modified version already performed best.
 3. Training & Evaluation:
-  - Models trained with Adam optimizer and tuned hyperparameters.
-  - Generated images compared visually and quantitatively using FID scores.
-  - Best-performing model: Modified GAN, achieving an FID score of 147.40.
+   - Models trained with Adam optimizer and tuned hyperparameters.
+   - Generated images compared visually and quantitatively using FID scores.
+   - Best-performing model: Modified GAN, achieving an FID score of 147.40.
 
 Key Findings
 1. The baseline model could generate images but suffered from lower quality and instability.
